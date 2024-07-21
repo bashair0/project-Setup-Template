@@ -29,4 +29,6 @@ The required commands to install the packages that are being used in this templa
 
 ## README Template file
 
-There is a readme template file included in the repository you can adjust it according to your project needs and use it, and delete this one.
+There is a readme template file
+**Note the template file is from frontend mentor website**
+included in the repository you can adjust it according to your project needs and use it, and delete this one.
